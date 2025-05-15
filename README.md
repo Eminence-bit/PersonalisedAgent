@@ -22,7 +22,7 @@ A powerful AI assistant that helps users manage their tasks, calendar events, an
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/PersonalisedAgent.git
+git clone https://github.com/eminence-bit/PersonalisedAgent.git
 cd PersonalisedAgent
 ```
 
